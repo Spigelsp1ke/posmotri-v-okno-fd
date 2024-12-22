@@ -54,10 +54,6 @@ ol {
   grid-area: result;
 }
 
-.preloader {
-  position: absolute;
-}
-
 .result__video-container {
   position: relative;
   width: 711px;
@@ -261,7 +257,7 @@ input[type=checkbox]:checked + .search-form__pseudo-checkbox::after {
   background-color: #545050;
 }
 
-.content__video-card-title{
+.content__video-card-title {
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
   line-height: 30px;
@@ -287,7 +283,7 @@ input[type=checkbox]:checked + .search-form__pseudo-checkbox::after {
 }
 
 .content__video-card-description-container {
-  flex-grow: 1; 
+  flex-grow: 1;
 }
 
 /* Кастомный скроллбар */
